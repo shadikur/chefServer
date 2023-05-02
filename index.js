@@ -10,7 +10,7 @@ app.get("/", (req, res) => {
   res.send("Chef API server is running");
 });
 
-app.get("/", (req, res) => {
+app.get("/test", (req, res) => {
   res.send({ name: "Mohammad Rahman" });
 });
 
