@@ -10,6 +10,10 @@ app.get("/", (req, res) => {
   res.send("Chef API server is running");
 });
 
+app.get("/", (req, res) => {
+  res.send({ name: "Mohammad Rahman" });
+});
+
 app.listen(port, () => {
   console.log(`API Server is running on port ${port}`);
 });
