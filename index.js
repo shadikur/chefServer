@@ -1,6 +1,7 @@
 const express = require("express");
 const app = express();
 const port = 5300;
+const data = require("./data.json");
 
 const cors = require("cors");
 
@@ -10,8 +11,8 @@ app.get("/", (req, res) => {
   res.send("Chef API server is running");
 });
 
-app.get("/test", (req, res) => {
-  res.send({ name: "Mohammad Rahman" });
+app.get("/allData", (req, res) => {
+  res.json(data);
 });
 
 app.listen(port, () => {
