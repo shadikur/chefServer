@@ -2,8 +2,9 @@
   "thai_chefs": [
     {
       "id": 1,
-      "chef_picture": "https://example.com/chef1.jpg",
+      "chef_picture": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683193628/Thai-Chef/Pim_Techamuanvivit.jpg",
       "chef_name": "Pim Techamuanvivit",
+      "bio": "Pim Techamuanvivit (Thai: พิม เตชะมวลไววิทย์, born 1971) is a Thai chef and restaurateur based in San Francisco. She is the owner of Nari, Kamin, and Michelin-starred Kin Khao restaurants in San Francisco, and became the executive chef of Michelin-starred Nahm in Bangkok in 2019.",
       "years_of_experience": 20,
       "num_recipes": 100,
       "likes": 50000,
@@ -20,7 +21,7 @@
           ],
           "cooking_method": "1. Soak the rice noodles in water until softened. 2. Fry the shrimp in a pan. 3. Add the noodles and other ingredients to the pan and stir-fry. 4. Serve hot.",
           "rating": 4.5,
-          "photo": "https://example.com/pad_thai.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683193693/Thai-Chef/Chicken-Pad-Thai_9-SQ.jpg",
           "favorite_button": true
         },
         {
@@ -35,7 +36,7 @@
           ],
           "cooking_method": "1. Heat coconut milk in a pot. 2. Add galangal and lemongrass and bring to a boil. 3. Add chicken and simmer until cooked. 4. Serve hot with kaffir lime leaves.",
           "rating": 4.8,
-          "photo": "https://example.com/tom_kha_gai.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683193748/Thai-Chef/eut202110146-tom-kha-gai.jpg",
           "favorite_button": true
         },
         {
@@ -50,15 +51,16 @@
           ],
           "cooking_method": "1. Heat the curry paste in a pan. 2. Add coconut milk and bring to a boil. 3. Add chicken and vegetables and simmer until cooked. 4. Serve hot.",
           "rating": 4.3,
-          "photo": "https://example.com/green_curry.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683193800/Thai-Chef/index.jpg",
           "favorite_button": true
         }
       ]
     },
     {
       "id": 2,
-      "chef_picture": "https://example.com/chef2.jpg",
+      "chef_picture": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683193854/Thai-Chef/jet_tila.jpg",
       "chef_name": "Jet Tila",
+      "bio": "Jet Tila is the chef of the restaurants The Charleston and Pakpao Thai, both located in Los Angeles, California. Tila is the restaurant developer of Dragon Tiger Noodle Co. with three locations in Las Vegas and Henderson, Nevada.",
       "years_of_experience": 25,
       "num_recipes": 75,
       "likes": 40000,
@@ -75,7 +77,7 @@
           ],
           "cooking_method": "1. Peel and shred the papaya. 2. Mix the papaya with other ingredients in a bowl. 3. Serve cold with crushed peanuts on top.",
           "rating": 4.2,
-          "photo": "https://example.com/papaya_salad.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683194020/Thai-Chef/Green-Papaya-Salad-2-3.jpg",
           "favorite_button": true
         },
         {
@@ -90,7 +92,7 @@
           ],
           "cooking_method": "1. Heat water in a pot. 2. Add lemongrass, galangal, and kaffir lime leaves. 3. Add shrimp and chili peppers. 4. Simmer until the shrimp is cooked. 5. Serve hot.",
           "rating": 4.7,
-          "photo": "https://example.com/tom_yum_soup.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683194057/Thai-Chef/k_Photo_Recipe_Ramp_Up_2021-12-Tom-Yum-Soup_tom-yum-1.jpg",
           "favorite_button": true
         },
         {
@@ -105,15 +107,16 @@
           ],
           "cooking_method": "1. Peel and chop the papaya. 2. Heat coconut milk in a pan. 3. Add chicken and fish sauce and simmer until cooked. 4. Add papaya and Thai basil and cook for another few minutes. 5. Serve hot.",
           "rating": 4.1,
-          "photo": "https://example.com/green_papaya_curry.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683194103/Thai-Chef/Raw-Papaya-Curry-FI.jpg",
           "favorite_button": true
         }
       ]
     },
     {
       "id": 3,
-      "chef_picture": "https://example.com/chef3.jpg",
+      "chef_picture": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683194200/Thai-Chef/david.jpg",
       "chef_name": "David Thompson",
+      "bio": "David Thompson is an Australian chef, restaurateur, and cookery writer. He is known for his skill and expertise in Thai cuisine. He has written several books on Thai food and is the chef of the restaurant Nahm in Bangkok, Thailand.",
       "years_of_experience": 30,
       "num_recipes": 50,
       "likes": 60000,
@@ -130,7 +133,7 @@
           ],
           "cooking_method": "1. Heat oil in a pan. 2. Add the curry paste and stir-fry for a few minutes. 3. Add beef and cook until browned. 4. Add potatoes and other ingredients and simmer until the beef is cooked and the potatoes are soft. 5. Serve hot.",
           "rating": 4.9,
-          "photo": "https://example.com/massaman_curry.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683194373/Thai-Chef/Thai-Massaman-Curry-Featured.jpg",
           "favorite_button": true
         },
         {
@@ -145,7 +148,7 @@
           ],
           "cooking_method": "1. Heat oil in a pan. 2. Add garlic and chili peppers and stir-fry for a few seconds.3.3. Add ground pork and fish sauce and stir-fry until cooked. 4. Add Thai basil and stir-fry for a few more seconds. 5. Serve hot with rice.",
           "rating": 4.5,
-          "photo": "https://example.com/pad_krapow_moo_saap.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683194434/Thai-Chef/q5iWPLl.jpg",
           "favorite_button": true
         },
         {
@@ -160,15 +163,16 @@
           ],
           "cooking_method": "1. Cook the egg noodles in boiling water until tender. 2. Heat curry powder in a pan. 3. Add chicken and stir-fry until browned. 4. Add coconut milk and simmer until the chicken is cooked. 5. Serve the curry with the noodles and a squeeze of lime.",
           "rating": 4.6,
-          "photo": "https://example.com/khao_soi.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683194484/Thai-Chef/15-minute-khao-soi-6916w-2.jpg",
           "favorite_button": true
         }
       ]
     },
     {
       "id": 4,
-      "chef_picture": "https://example.com/chef4.jpg",
+      "chef_picture": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683194558/Thai-Chef/chef-1.jpg",
       "chef_name": "Ian Kittichai",
+      "bio": "Ian Kittichai is a Thai chef, restaurateur, and cookbook author. He is known for his skill and expertise in Thai cuisine. He has written several books on Thai food and is the chef of the restaurant Issaya Siamese Club in Bangkok, Thailand.",
       "years_of_experience": 25,
       "num_recipes": 40,
       "likes": 50000,
@@ -185,7 +189,7 @@
           ],
           "cooking_method": "1. Heat the fish curry paste in a pan. 2. Add coconut milk and simmer until fragrant. 3. Add fish, shrimp paste, and lemongrass and simmer until the fish is cooked. 4. Serve hot over rice noodles.",
           "rating": 4.3,
-          "photo": "https://example.com/kanom_jeen_nam_ya.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683194642/Thai-Chef/6492052957_d4879d8728_o.jpg",
           "favorite_button": true
         },
         {
@@ -200,7 +204,7 @@
           ],
           "cooking_method": "1. Heat the panang curry paste in a pan. 2. Add coconut milk and simmer until fragrant. 3. Add beef and kaffir lime leaves and simmer until the beef is cooked. 4. Serve hot with crushed peanuts on top.",
           "rating": 4.8,
-          "photo": "https://example.com/panang_curry.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683194677/Thai-Chef/k_Photo_Recipe_Ramp_Up_2022-02-Panang-Curry_panang-2.jpg",
           "favorite_button": true
         },
         {
@@ -215,15 +219,16 @@
           ],
           "cooking_method": "1. Mix shrimp, coconut, ginger, and lime in a bowl. 2. Spoon the mixture onto the betel leaves. 3. Fold the leaves into small packages. 4. Serve as an appetizer.",
           "rating": 4.4,
-          "photo": "https://example.com/miang_kham.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683194719/Thai-Chef/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__05__20140520-293185-cook-the-book-leaf-wrapped-salad-bites-9c510363b56c4eff825f35172975f1c6.jpg",
           "favorite_button": true
         }
       ]
     },
     {
       "id": 5,
-      "chef_picture": "https://example.com/chef5.jpg",
-      "chef_name": "Pim Techamuanvivit",
+      "chef_picture": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683194861/Thai-Chef/gordonramsay_kitchenmaster-ftr.jpg",
+      "chef_name": "Gordon Ramsay",
+      "bio": "Gordon Ramsay is a British chef (Thai Special), restaurateur, writer, and television personality. He is known for his fiery temper, strict demeanor, and frequent use of expletives. He has written numerous cookbooks and hosted several television shows, including Hell's Kitchen and MasterChef.",
       "years_of_experience": 20,
       "num_recipes": 35,
       "likes": 45000,
@@ -277,8 +282,9 @@
     },
     {
       "id": 6,
-      "chef_picture": "https://example.com/chef6.jpg",
-      "chef_name": "Ian Kittichai",
+      "chef_picture": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683195004/Thai-Chef/2086188.jpg",
+      "chef_name": "Pailin Chongchitnant",
+      "bio": "Pailin Chongchitnant is a Thai chef, restaurateur, and television personality. She is known for her fiery temper, strict demeanor, and frequent use of expletives. She has written numerous cookbooks and hosted several television shows, including Hell's Kitchen and MasterChef.",
       "years_of_experience": 25,
       "num_recipes": 50,
       "likes": 55000,

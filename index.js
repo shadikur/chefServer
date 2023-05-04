@@ -25,6 +25,24 @@ app.get("/chef/:id", (req, res) => {
   res.send(singleChef);
 });
 
+// All the chefs profile
+app.get("/chefsprofile", (req, res) => {
+  const chefsProfile = data?.thai_chefs?.map(({ recipes, ...chef }) => chef);
+  res.send(chefsProfile);
+});
+
+// A single chefs profile
+app.get("/chefsprofile/:chefID", (req, res) => {
+  const { chefID } = req.params;
+  const chefData = data.thai_chefs.find((chef) => chef.id === parseInt(chefID));
+  if (!chefData) {
+    res.status(404).send("Chef not found");
+  } else {
+    const { recipes, ...profileData } = chefData;
+    res.send(profileData);
+  }
+});
+
 // Any single recipe
 
 app.get("/recipe/:id", (req, res) => {
