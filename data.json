@@ -301,7 +301,7 @@
           ],
           "cooking_method": "1. Soak the rice noodles in water until they're soft. 2. Stir-fry the shrimp in a pan until they're cooked. 3. Add the rice noodles, tamarind sauce, peanuts, and bean sprouts to the pan and stir-fry until heated through. 4. Serve hot.",
           "rating": 4.8,
-          "photo": "https://example.com/pad_thai.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683240958/Thai-Chef/pad-thai-shrimp-2023-01-26-10-59-11-utc-min.jpg",
           "favorite_button": true
         },
         {
@@ -316,7 +316,7 @@
           ],
           "cooking_method": "1. Cook the beef in a pan until browned. 2. Add the potatoes and onions and stir-fry for a few minutes. 3. Add the peanuts and coconut milk and simmer until the beef and potatoes are cooked. 4. Serve hot with rice.",
           "rating": 4.5,
-          "photo": "https://example.com/massaman_curry.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683240958/Thai-Chef/thai-massaman-curry-on-plate-with-jasmine-rice-and-2022-03-26-11-04-37-utc-min_1.jpg",
           "favorite_button": true
         },
         {
@@ -331,7 +331,7 @@
           ],
           "cooking_method": "1. Bring water to a boil in a pot. 2. Add lemongrass and galangal to the pot and simmer for a few minutes. 3. Add chicken and coconut milk and cook until the chicken is done. 4. Add lime juice and stir. 5. Serve hot.",
           "rating": 4.7,
-          "photo": "https://example.com/tom_kha_gai.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683240959/Thai-Chef/thai-soup-called-tom-kha-gai-2021-08-30-09-52-08-utc-min.jpg",
           "favorite_button": true
         }
       ]
