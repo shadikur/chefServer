@@ -245,7 +245,7 @@
           ],
           "cooking_method": "1. Cook the rice in a pot. 2. Scramble the egg in a pan. 3. Add green onions, crab meat, and soy sauce to the pan and stir-fry until heated through. 4. Serve the crab mixture over the rice.",
           "rating": 4.2,
-          "photo": "https://example.com/khao_pad_pu.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683241937/Thai-Chef/freshly-cooked-thai-food-called-khao-pad-poo-2022-12-08-01-42-55-utc-min.jpg",
           "favorite_button": true
         },
         {
@@ -260,7 +260,7 @@
           ],
           "cooking_method": "1. Bring water to a boil in a pot. 2. Add lemongrass, galangal, and kaffir lime leaves to the pot and simmer for a few minutes. 3. Add shrimp and fish sauce and cook until the shrimp is pink. 4. Serve hot.",
           "rating": 4.9,
-          "photo": "https://example.com/tom_yum_goong.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683241936/Thai-Chef/thai-soup-tom-yum-2021-08-30-14-44-04-utc-min.jpg",
           "favorite_button": true
         },
         {
@@ -275,7 +275,7 @@
           ],
           "cooking_method": "1. Heat the red curry paste in a pan. 2. Add coconut milk and simmer until fragrant. 3. Add beef and bamboo shoots and simmer until the beef is cooked. 4. Add Thai basil and stir-fry for a few more seconds. 5. Serve hot with rice.",
           "rating": 4.6,
-          "photo": "https://example.com/gaeng_daeng.jpg",
+          "photo": "https://res.cloudinary.com/ddez9nchs/image/upload/v1683241936/Thai-Chef/egg-noodles-served-with-roast-pork-thai-food-2021-08-26-22-36-28-utc-min.jpg",
           "favorite_button": true
         }
       ]
